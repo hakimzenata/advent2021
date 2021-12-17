@@ -14,9 +14,7 @@ int32_t countIncreasingSingle(std::vector<int32_t> &lin);
 int32_t countIncreasingSliding(std::vector<int32_t> &lin);
 
 int main(){
-	std::cout << "Hello World!" << std::endl;
 	std::vector<int32_t> input = parseInput();
-	std::cout<<"finish parsing"<<std::endl;
 	std::cout<<"Part 1 : " << countIncreasingSingle(input) <<"\n Part 2 : "<< countIncreasingSliding(input) <<"\n";
 	return 0;
 }
