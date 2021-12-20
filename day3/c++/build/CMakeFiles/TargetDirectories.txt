@@ -1,3 +1,0 @@
-/home/ipmap/advent21/day3/c++/build/CMakeFiles/day1.dir
-/home/ipmap/advent21/day3/c++/build/CMakeFiles/edit_cache.dir
-/home/ipmap/advent21/day3/c++/build/CMakeFiles/rebuild_cache.dir
